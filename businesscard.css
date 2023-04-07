@@ -1,0 +1,27 @@
+body{
+    margin:20px;
+    
+
+   
+}
+.img{
+    width:150px;
+    height: 150px;
+}
+.card{
+       border: 2px solid blue;/* it can also  be writtten as 2px dotted blue*/
+       border-style: none;
+       padding:20px;
+       display: flex;
+       justify-content: space-around;
+       width: 400px;
+       margin-left: auto;
+       margin-right: auto;
+       text-align: center;
+      background-color: skyblue;
+      border-bottom: 4px solid  purple;
+}
+.blue-border{
+              border: 1px dotted blue;
+
+}
